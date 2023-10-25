@@ -5,8 +5,8 @@ import java.util.Scanner;
 public class Library {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        int n = 3;
-
+        System.out.print("Quanti libri vuoi aggiungere? "); // Numero di libri da inserire
+        int n = Integer.parseInt(scanner.nextLine());
         Book[] catalog = new Book[n];
 
         for (int i = 0; i < n; i++) {

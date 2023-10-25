@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e9dbb1e-0e0f-4e95-91e8-32dcaaa694f6" name="Changes" comment="exceptions">
-      <change afterPath="$PROJECT_DIR$/src/Exceptions/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exceptions/Library.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exceptions/Main.java" beforeDir="false" />
+    <list default="true" id="1e9dbb1e-0e0f-4e95-91e8-32dcaaa694f6" name="Changes" comment="Book/Library">
+      <change beforePath="$PROJECT_DIR$/src/Exceptions/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exceptions/Library.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,12 +99,45 @@
       <option name="project" value="LOCAL" />
       <updated>1698160286588</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Book/Library">
+      <option name="closed" value="true" />
+      <created>1698189414753</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1698189414753</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Book/Library">
+      <option name="closed" value="true" />
+      <created>1698189482950</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1698189482950</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Book/Library">
+      <option name="closed" value="true" />
+      <created>1698189586216</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1698189586216</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Book/Library">
+      <option name="closed" value="true" />
+      <created>1698217881546</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1698217881546</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create" />
     <MESSAGE value="exceptions" />
-    <option name="LAST_COMMIT_MESSAGE" value="exceptions" />
+    <MESSAGE value="Book/Library" />
+    <option name="LAST_COMMIT_MESSAGE" value="Book/Library" />
   </component>
 </project>
