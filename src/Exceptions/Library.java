@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Library {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        int n = 3; // Numero di libri da inserire
+        int n = 3;
 
         Book[] catalog = new Book[n];
 

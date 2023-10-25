@@ -13,7 +13,6 @@ public class Book {
         setPublisher(publisher);
     }
 
-    // Getter e Setter per il titolo
     public String getTitle() {
         return title;
     }
@@ -25,7 +24,6 @@ public class Book {
         this.title = title;
     }
 
-    // Getter e Setter per il numero di pagine
     public int getNumPages() {
         return numPages;
     }
@@ -37,7 +35,6 @@ public class Book {
         this.numPages = numPages;
     }
 
-    // Getter e Setter per l'autore
     public String getAuthor() {
         return author;
     }
@@ -49,7 +46,6 @@ public class Book {
         this.author = author;
     }
 
-    // Getter e Setter per l'editore
     public String getPublisher() {
         return publisher;
     }
